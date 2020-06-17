@@ -1,8 +1,20 @@
 # platform-game-circa-2011
 Circa 2011 - Simple 2D Platform game project (Java) from my newbie developer days.
-Utilizes (processing.org)[processing.org].
+Utilizes Java & [processing.org] (processing.org).
 
+<div style="width: 100%; display: flex; align-items: center; justify-content: space-between">
+<img src="https://github.com/pattishin/platform-game-circa-2011/blob/master/img/gameEngine_game1_1.png" width="250px" alt="platform game"/>
 
+<img src="https://github.com/pattishin/platform-game-circa-2011/blob/master/img/gameEngine_game1_2.png" width="250px" alt="platform game"/>
+
+<img src="https://github.com/pattishin/platform-game-circa-2011/blob/master/img/gameEngine_game1_3.png" width="250px" alt="platform game"/>
+
+<img src="https://github.com/pattishin/platform-game-circa-2011/blob/master/img/gameEngine_game2_1.png" width="250px" alt="platform game"/>
+
+<img src="https://github.com/pattishin/platform-game-circa-2011/blob/master/img/gameEngine_game2_2.png" width="250px" alt="platform game"/>
+
+<img src="https://github.com/pattishin/platform-game-circa-2011/blob/master/img/gameEngine_game2_3.png" width="250px" alt="platform game"/>
+</div>
 
 ## ⚙️ Getting started
 
