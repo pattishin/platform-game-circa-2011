@@ -1,5 +1,5 @@
 # platform-game-circa-2011
-Circa 2011 - Simple 2D Platform game project from my newbie developer days.
+Circa 2011 - Simple 2D Platform game project (Java) from my newbie developer days.
 Utilizes (processing.org)[processing.org].
 
 
