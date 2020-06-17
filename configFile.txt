@@ -1,0 +1,110 @@
+((////////////////////ENVIRONMENT////////////////////
+Environment
+width: 900
+height: 700
+frame rate: 30
+stroke color: 255
+////////////////////BOUNDING BOX////////////////////
+create GameObject: BoundingBox
+locationX: 10
+locationY: 10
+height: 680
+width: 880
+////////////////////CHARACTER SPAWN POINT////////////////////
+create GameObject: CharacterSpawnPoint
+locationX: 50
+locationY: 100
+////////////////////DEATH ZONE////////////////////
+create GameObject: DeathZone
+start locationX: 0
+start locationY: 650
+finish locationX: 900
+finish locationY: 650
+////////////////////PLATFORM PARENTS////////////////////
+create GameObject: PlatformParent
+parent number: 1
+////
+create GameObject: PlatformParent
+parent number: 2
+////
+create GameObject: PlatformParent
+parent number: 3
+////////////////////PLATFORMS////////////////////
+create GameObject: Obstacle
+name: platform
+set parent: 1
+locationX: 280
+locationY: 500
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 1
+locationX: 330
+locationY: 450
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 2
+locationX: 670
+locationY: 300
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 2
+locationX: 620
+locationY: 350
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 2
+locationX: 570
+locationY: 400
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 3
+locationX: 120
+locationY: 400
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 3
+locationX: 70
+locationY: 350
+height: 15
+width: 150
+////
+create GameObject: Obstacle
+name: platform
+set parent: 3
+locationX: 20
+locationY: 300
+height: 15
+width: 150
+////////////////////GROUND PLATFORM////////////////////
+create GameObject: Obstacle
+name: ground
+set parent: -1
+locationX: 0
+locationY: 550
+height: 50
+width: 700
+////////////////////MAIN CHARACTER////////////////////
+create GameObject: Character
+name: pigRabbit
+locationX: 50
+locationY: 550
+height: 20
+width: 20
