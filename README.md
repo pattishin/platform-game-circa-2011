@@ -6,13 +6,7 @@ Utilizes (processing.org)[processing.org].
 
 ## ⚙️ Getting started
 
-1. Run the game
-  Note: All .pde/ class files should be in the same sketch folder.
-
-   ```sh
-   npm install
-   ```
-1. Run the game
+2. Run the game
 * All .pde/ class files should be in the same sketch folder.
 * Double-click on PlatformGame.pde to run platform scene/game simulator and all the 
 classes, including the one selected, should come up as tabs.
